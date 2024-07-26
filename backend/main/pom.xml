@@ -14,7 +14,7 @@
   <name>Main</name>
   <description>Main Module</description>
 
-  <groupId>com.artsoft.gitintegration</groupId>
+  <groupId>com.pudim.flan</groupId>
   <artifactId>main</artifactId>
   <version>1.0.0</version>
   
