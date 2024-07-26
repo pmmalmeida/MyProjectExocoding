@@ -14,7 +14,7 @@
   <name>Git Integration</name>
   <description>An Application created by Exocoding.</description>
 
-  <groupId>com.pudim</groupId>
+  <groupId>com.arroz</groupId>
   <artifactId>gitintegration</artifactId>
   <version>1.0.0</version>
   <packaging>pom</packaging>
