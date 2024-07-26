@@ -14,7 +14,7 @@
   <name>Main</name>
   <description>Main Module</description>
 
-  <groupId>com.admin.codegenreallynew</groupId>
+  <groupId>com.mybussiness.codegen</groupId>
   <artifactId>main</artifactId>
   <version>1.0.0</version>
   
